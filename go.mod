@@ -1,6 +1,6 @@
 module github.com/Skardyy/ttyimg
 
-go 1.23.4
+go 1.23.3
 
 require (
 	github.com/BourgeoisBear/rasterm v1.1.1 // direct
