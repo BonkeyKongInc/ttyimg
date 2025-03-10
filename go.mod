@@ -1,4 +1,4 @@
-module github.com/Skardyy/ttyimg
+module github.com/BonkeyKongInc/ttyimg
 
 go 1.23.3
 
